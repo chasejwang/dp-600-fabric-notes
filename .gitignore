@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor / OS noise
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Obsidian config (not part of the study material)
+.obsidian/
+.obsidian.vimrc
+
+# Local manifest (only kept in the source Obsidian vault)
+*.pdf
